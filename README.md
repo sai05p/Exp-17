@@ -2,6 +2,9 @@
 # AIM:
 To study and implement linked list.
 
+# SOFTWARE USED
+Visual Studio Code
+
 # THEORY:
 A linked list is a basic data structure in computer science that stores a collection of elements, with each element (node) pointing to the next one, forming a sequence. Unlike arrays, linked lists have dynamic memory allocation, which allows them to grow and shrink as needed.
 
